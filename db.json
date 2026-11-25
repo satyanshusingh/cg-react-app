@@ -1,0 +1,84 @@
+{
+  "employees": [
+    {
+      "name": "Abc",
+      "email": "abc@xyz.com",
+      "department": "IT",
+      "id": "UaATTRCVNII"
+    },
+    {
+      "name": "Andy",
+      "email": "and@abc.com",
+      "department": "Human Resources",
+      "id": "9TUN-1lldWE"
+    },
+    {
+      "name": "Satya",
+      "email": "satya@gmail.com",
+      "department": "Engineering",
+      "id": "HdQksC-lkog"
+    },
+    {
+      "name": "Anuj",
+      "email": "abcde@xyz.com",
+      "department": "Product Management",
+      "id": "q0RtDCkfWy4"
+    },
+    {
+      "name": "Aman",
+      "email": "Aman@gmail.com",
+      "department": "QA",
+      "id": "XoviwSADKNQ"
+    }
+  ],
+  "products": [
+    {
+      "name": "Mouse",
+      "price": 67,
+      "id": "13fKGXBb_Ns"
+    },
+    {
+      "name": "Random",
+      "price": 45,
+      "id": "SevATrjy9ZM"
+    },
+    {
+      "name": "Keyboard",
+      "price": 99,
+      "id": "1inJwjhxJXU"
+    },
+    {
+      "name": "Laptop",
+      "price": 6,
+      "id": "ZeEPaSkeE_k"
+    }
+  ],
+  "stocks": [
+    {
+      "productId": null,
+      "quantity": 37,
+      "id": "I0m4OrUA8KA"
+    },
+    {
+      "productId": "13fKGXBb_Ns",
+      "quantity": 24,
+      "id": "DiV8SgW2XZo"
+    },
+    {
+      "productId": "SevATrjy9ZM",
+      "quantity": 32,
+      "id": "xoUtZA2LHgs"
+    },
+    {
+      "productId": "1inJwjhxJXU",
+      "quantity": 46,
+      "id": "9a1ZtkFHSdM"
+    },
+    {
+      "productId": "ZeEPaSkeE_k",
+      "quantity": 24,
+      "id": "aXE7tJIs0u0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
